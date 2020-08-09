@@ -5,7 +5,7 @@
     width: 100%;
     background-color: #f20000;
     color: white;
-    padding: 2rem;
+    padding: 1rem;
   }
 </style>
 
