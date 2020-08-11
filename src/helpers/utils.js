@@ -15,3 +15,18 @@ export function getPlatformImage(platform) {
 
   return 'images/' + imageMap[platform]
 }
+
+export function getPlatforms() {
+  return [
+    ['win', 'Windows'],
+    ['mac', 'Apple'],
+    ['ps4', 'PS 4'],
+    ['ps3', 'PS 3'],
+    ['xbo', 'Xbox One'],
+    ['switch', 'Nintendo Switch'],
+    ['ios', 'IOS'],
+    ['android', 'Android'],
+    ['linux', 'Linux'],
+    ['vita', 'PS Vita']
+  ]
+}
