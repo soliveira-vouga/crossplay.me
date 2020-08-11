@@ -1,19 +1,14 @@
 <script>
-  import games from './games.json';
+  import games from './data/games.json';
+  import PlatformIcons from './PlatformIcons.svelte';
+
 </script>
 
 <style>
-  .games-table {
-    padding: 4rem 1rem 1rem 1rem;
-  }
   .games-table td, .games-table th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-  .games-table tr:nth-child(even){background-color: #f2f2f2;}
-
-  .games-table tr:hover {background-color: #ddd;}
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
 
   .games-table th {
     padding-top: 12px;
@@ -24,18 +19,20 @@
   }
 </style>
 
-<section class="games">
-  <table class="games-table">
+<section class="w-full pt-12">
+  <form></form>
+  <table class="games-table w-full">
     <thead>
-      <tr>
+      <tr class="even:bg-gray-200 hover:border-gray-200">
         <th>Title</th>
         <th>Platforms</th>
+      </tr>
     </thead>
     <tbody>
       {#each games as game, i}
-      <tr>
+      <tr class="even:bg-gray-200 hover:border-gray-200">
         <td>{game.title}</td>
-        <td>{game.platforms}</td>
+        <td><PlatformIcons platforms={game.platforms.split(',').map(p => p.trim())} /></td>
       </tr>
       {/each}
     </tbody>

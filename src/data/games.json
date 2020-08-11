@@ -1,7 +1,7 @@
 [
   {
     "title": "#IDARB",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "99Vidas",
@@ -17,27 +17,27 @@
   },
   {
     "title": "Among Us",
-    "platforms": "Steam, iOS, Android"
+    "platforms": "Win, Mobile"
   },
   {
     "title": "Aragami",
-    "platforms": "Linux, Mac, GOG, Steam, XBO, Switch"
+    "platforms": "Linux, Mac, Win, XBO, Switch"
   },
   {
     "title": "Aragami",
-    "platforms": "Linux, Mac, GOG, Steam, PS4"
+    "platforms": "Linux, Mac, Win, PS4"
   },
   {
     "title": "Ark: Survival Evolved",
-    "platforms": "Linux, Mac, Steam, Other"
+    "platforms": "Linux, Mac, Win, Other"
   },
   {
     "title": "Ark: Survival Evolved",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Astroneer",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Atomic Ninjas",
@@ -45,7 +45,7 @@
   },
   {
     "title": "Atom Universe",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Backgammon Blitz",
@@ -61,19 +61,19 @@
   },
   {
     "title": "BlobCat",
-    "platforms": "Steam, Switch"
+    "platforms": "Win, Switch"
   },
   {
     "title": "Borderlands 3",
-    "platforms": "Steam, Other"
+    "platforms": "Win, Other"
   },
   {
     "title": "Boundless",
-    "platforms": "Mac, Steam, PS4"
+    "platforms": "Mac, Win, PS4"
   },
   {
     "title": "Brawlhalla",
-    "platforms": "Mac, Steam, iOS, Android, PS4, XBO, Switch"
+    "platforms": "Mac, Win, Mobile, PS4, XBO, Switch"
   },
   {
     "title": "Call of Duty: Modern Warfare",
@@ -81,27 +81,27 @@
   },
   {
     "title": "Crackdown 3",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Crazy Justice",
-    "platforms": "Steam, XBO, Switch"
+    "platforms": "Win, XBO, Switch"
   },
   {
     "title": "Chessaria: The Tactical Adventure",
-    "platforms": "Mac, Steam"
+    "platforms": "Mac, Win"
   },
   {
     "title": "Chess Ultra",
-    "platforms": "Steam, XBO, Switch"
+    "platforms": "Win, XBO, Switch"
   },
   {
     "title": "Chess Ultra",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Cubemen 2",
-    "platforms": "Linux, Mac, Steam, iOS, Android, Wii U"
+    "platforms": "Linux, Mac, Win, Mobile"
   },
   {
     "title": "Curses 'N Chaos",
@@ -109,23 +109,23 @@
   },
   {
     "title": "Dauntless",
-    "platforms": "Other, iOS, Android, PS4, XBO, Switch"
+    "platforms": "Other, Mobile, PS4, XBO, Switch"
   },
   {
     "title": "Dawn of the Breakers",
-    "platforms": "Steam, iOS, Android, Switch"
+    "platforms": "Win, Mobile, Switch"
   },
   {
     "title": "DC Universe Online",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Dead by Daylight",
-    "platforms": "Steam, W10"
+    "platforms": "Win, Win"
   },
   {
     "title": "Dead by Daylight",
-    "platforms": "iOS, Android"
+    "platforms": "Mobile"
   },
   {
     "title": "Dead or Alive 5 Plus",
@@ -141,15 +141,15 @@
   },
   {
     "title": "Deep Rock Galactic",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Dick Wilde 2",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Dofus",
-    "platforms": "Linux, Mac, W10, Other"
+    "platforms": "Linux, Mac, Win, Other"
   },
   {
     "title": "Digimon Story: Cyber Sleuth",
@@ -161,11 +161,11 @@
   },
   {
     "title": "Disc Jam",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Disc Jam",
-    "platforms": "Steam, Switch"
+    "platforms": "Win, Switch"
   },
   {
     "title": "Divekick",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Dragon Quest X",
-    "platforms": "Other, iOS, Android, PS4, Switch, Wii U"
+    "platforms": "Other, Mobile, PS4, Switch"
   },
   {
     "title": "Dragon's Crown",
@@ -197,7 +197,7 @@
   },
   {
     "title": "Dreii",
-    "platforms": "Linux, Mac, Steam, Wii U"
+    "platforms": "Linux, Mac, Win"
   },
   {
     "title": "Duke Nukem 3D Megaton Edition",
@@ -209,23 +209,23 @@
   },
   {
     "title": "Eagle Flight",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "The Elder Scrolls: Blades",
-    "platforms": "iOS, Android, Switch"
+    "platforms": "Mobile, Switch"
   },
   {
     "title": "Elemental Knights R",
-    "platforms": "iOS, Android, Switch"
+    "platforms": "Mobile, Switch"
   },
   {
     "title": "Eve Online",
-    "platforms": "Mac, Steam, Other"
+    "platforms": "Mac, Win, Other"
   },
   {
     "title": "Eve: Valkyrie",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Everybody's Golf 6",
@@ -233,31 +233,31 @@
   },
   {
     "title": "Exorder",
-    "platforms": "Linux, Mac, Steam, Switch"
+    "platforms": "Linux, Mac, Win, Switch"
   },
   {
     "title": "Fable Fortune",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Factorio",
-    "platforms": "Linux, Mac, GOG, Steam, Other"
+    "platforms": "Linux, Mac, Win, Other"
   },
   {
     "title": "Fantasy Strike",
-    "platforms": "Linux, Mac, Steam, PS4, Switch"
+    "platforms": "Linux, Mac, Win, PS4, Switch"
   },
   {
     "title": "Final Fantasy: Crystal Chronicles",
-    "platforms": "iOS, Android, PS4, Switch"
+    "platforms": "Mobile, PS4, Switch"
   },
   {
     "title": "Final Fantasy XIV: A Realm Reborn",
-    "platforms": "Mac, Steam, Other, PS4, PS3"
+    "platforms": "Mac, Win, Other, PS4, PS3"
   },
   {
     "title": "Final Fantasy XV",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Foosball 2012",
@@ -265,31 +265,31 @@
   },
   {
     "title": "Fortnite Battle Royale",
-    "platforms": "Mac, Other, iOS, Android, PS4, XBO, Switch"
+    "platforms": "Mac, Other, Mobile, PS4, XBO, Switch"
   },
   {
     "title": "Forza Horizon 3",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Forza Horizon 4",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Forza Motorsport 7",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Frozen Synapse",
-    "platforms": "Linux, Mac, GOG, Steam, Other, iOS, Android"
+    "platforms": "Linux, Mac, Win, Other, Mobile"
   },
   {
     "title": "Full Metal Furies",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Games of Glory",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Garou: Mark of the Wolves",
@@ -297,15 +297,15 @@
   },
   {
     "title": "Gears of War 4",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Gears 5",
-    "platforms": "Steam, W10, XBO"
+    "platforms": "Win, Win, XBO"
   },
   {
     "title": "Genesis",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "God Eater Resurrection",
@@ -333,35 +333,35 @@
   },
   {
     "title": "Guns of Icarus: Alliance",
-    "platforms": "Linux, Mac, Steam, PS4"
+    "platforms": "Linux, Mac, Win, PS4"
   },
   {
     "title": "Gwent: The Witcher Card Game",
-    "platforms": "GOG, Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Gwent: The Witcher Card Game",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Halo Wars 2",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Hearthstone",
-    "platforms": "Mac, Other, iOS, Android"
+    "platforms": "Mac, Other, Mobile"
   },
   {
     "title": "Hero Siege",
-    "platforms": "Linux, Mac, Steam, iOS, Android, Switch"
+    "platforms": "Linux, Mac, Win, Mobile, Switch"
   },
   {
     "title": "Hero Siege",
-    "platforms": "Linux, Mac, Steam, iOS, Android, PS4"
+    "platforms": "Linux, Mac, Win, Mobile, PS4"
   },
   {
     "title": "Hex",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Helldivers",
@@ -369,15 +369,15 @@
   },
   {
     "title": "Honkai Impact 3rd",
-    "platforms": "Other, iOS, Android"
+    "platforms": "Other, Mobile"
   },
   {
     "title": "Hover",
-    "platforms": "Steam, XBO, Switch"
+    "platforms": "Win, XBO, Switch"
   },
   {
     "title": "Hover",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Hunt: Showdown",
@@ -405,19 +405,19 @@
   },
   {
     "title": "Just Dance",
-    "platforms": "PS4, XBO, Switch, Wii U, PS3"
+    "platforms": "PS4, XBO, Switch, PS3"
   },
   {
     "title": "Kabounce",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Killer Instinct",
-    "platforms": "Steam, W10, XBO"
+    "platforms": "Win, Win, XBO"
   },
   {
     "title": "Killer Queen Black",
-    "platforms": "Mac, Steam, XBO, Switch"
+    "platforms": "Mac, Win, XBO, Switch"
   },
   {
     "title": "The King of Fighters '97 Global Match",
@@ -429,11 +429,11 @@
   },
   {
     "title": "LevelHead",
-    "platforms": "Steam, iOS, Android, Switch"
+    "platforms": "Win, Mobile, Switch"
   },
   {
     "title": "Lightseekers",
-    "platforms": "Mac, Steam, iOS, Android, Switch"
+    "platforms": "Mac, Win, Mobile, Switch"
   },
   {
     "title": "Lost Planet: Extreme Condition Colonies Edition",
@@ -441,15 +441,15 @@
   },
   {
     "title": "Lucadian Chronicles",
-    "platforms": "Steam, Wii U"
+    "platforms": "Win"
   },
   {
     "title": "Mantis Burn Racing",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Mantis Burn Racing",
-    "platforms": "Steam, XBO, Switch"
+    "platforms": "Win, XBO, Switch"
   },
   {
     "title": "Mecho Wars: Desert Ashes",
@@ -461,7 +461,7 @@
   },
   {
     "title": "Microsoft Flight Simulator (2020)",
-    "platforms": "Steam, W10, XBO"
+    "platforms": "Win, Win, XBO"
   },
   {
     "title": "Minecraft: Java Edition",
@@ -469,19 +469,15 @@
   },
   {
     "title": "Minecraft: Bedrock Edition",
-    "platforms": "W10, iOS, Android, PS4, XBO, Switch"
+    "platforms": "Win, Mobile, PS4, XBO, Switch"
   },
   {
     "title": "Minetest",
-    "platforms": "Linux, Mac, W10, iOS, Android"
+    "platforms": "Linux, Mac, Win, Mobile"
   },
   {
     "title": "Mobius Final Fantasy",
-    "platforms": "Steam, iOS, Android"
-  },
-  {
-    "title": "Monster Hunter 3 Ultimate",
-    "platforms": "Wii U"
+    "platforms": "Win, Mobile"
   },
   {
     "title": "Monster Hunter Generations Ultimate",
@@ -489,7 +485,7 @@
   },
   {
     "title": "Morphies Law",
-    "platforms": "Steam, Switch"
+    "platforms": "Win, Switch"
   },
   {
     "title": "Mortal Kombat 11",
@@ -497,7 +493,7 @@
   },
   {
     "title": "Mushroom Wars 2",
-    "platforms": "Mac, Steam, iOS, Android, Switch"
+    "platforms": "Mac, Win, Mobile, Switch"
   },
   {
     "title": "Natural Doctrine",
@@ -505,7 +501,7 @@
   },
   {
     "title": "NBA 2K Playgrounds 2",
-    "platforms": "Steam, XBO, Switch"
+    "platforms": "Win, XBO, Switch"
   },
   {
     "title": "Nidhogg",
@@ -513,15 +509,15 @@
   },
   {
     "title": "Need for Speed Heat",
-    "platforms": "Steam, Other, PS4, XBO"
+    "platforms": "Win, Other, PS4, XBO"
   },
   {
     "title": "Neverwinter Nights (Enhanced Edition)",
-    "platforms": "Linux, Mac, GOG, Steam, Other, XBO, Switch"
+    "platforms": "Linux, Mac, Win, Other, XBO, Switch"
   },
   {
     "title": "Next Up Hero",
-    "platforms": "Mac, Steam, XBO, Switch"
+    "platforms": "Mac, Win, XBO, Switch"
   },
   {
     "title": "Nitroplus Blasterz: Heroines Infinite Duel",
@@ -529,39 +525,39 @@
   },
   {
     "title": "No Man's Sky",
-    "platforms": "Steam, W10, PS4, XBO"
+    "platforms": "Win, Win, PS4, XBO"
   },
   {
     "title": "Onigiri",
-    "platforms": "Steam, Switch"
+    "platforms": "Win, Switch"
   },
   {
     "title": "Overload",
-    "platforms": "Linux, Mac, GOG, Steam, XBO"
+    "platforms": "Linux, Mac, Win, XBO"
   },
   {
     "title": "Overload",
-    "platforms": "Linux, Mac, GOG, Steam, PS4"
+    "platforms": "Linux, Mac, Win, PS4"
   },
   {
     "title": "Paladins",
-    "platforms": "Steam, Other, PS4, XBO, Switch"
+    "platforms": "Win, Other, PS4, XBO, Switch"
   },
   {
     "title": "Phantasy Star Online 2",
-    "platforms": "W10, Other, PS4, XBO, Switch, Vita"
+    "platforms": "Win, Other, PS4, XBO, Switch, Vita"
   },
   {
     "title": "Phantom Dust",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Pinball FX 3",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Pinball FX 3",
-    "platforms": "Steam, W10, XBO, Switch"
+    "platforms": "Win, Win, XBO, Switch"
   },
   {
     "title": "PixelJunk Shooter Ultimate",
@@ -577,19 +573,19 @@
   },
   {
     "title": "Portal 2",
-    "platforms": "Linux, Mac, Steam, PS3"
+    "platforms": "Linux, Mac, Win, PS3"
   },
   {
     "title": "Power Rangers: Battle for the Grid",
-    "platforms": "Steam, W10, Other, PS4, XBO, Switch"
+    "platforms": "Win, Win, Other, PS4, XBO, Switch"
   },
   {
     "title": "Pox Nora",
-    "platforms": "Mac, Steam, PS4"
+    "platforms": "Mac, Win, PS4"
   },
   {
     "title": "Pure Chess",
-    "platforms": "Steam, Wii U"
+    "platforms": "Win"
   },
   {
     "title": "Ragnarok Odyssey Ace",
@@ -601,23 +597,23 @@
   },
   {
     "title": "ReadySet Heroes",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Realm Royale",
-    "platforms": "Steam, Other, PS4, XBO, Switch"
+    "platforms": "Win, Other, PS4, XBO, Switch"
   },
   {
     "title": "Rec Room",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Riptide GP Renegade",
-    "platforms": "Steam, Switch"
+    "platforms": "Win, Switch"
   },
   {
     "title": "Riptide GP Renegade",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Risk of Rain",
@@ -625,19 +621,19 @@
   },
   {
     "title": "Risk_(game)",
-    "platforms": "Steam, iOS, Android"
+    "platforms": "Win, Mobile"
   },
   {
     "title": "Roblox",
-    "platforms": "Mac, W10, iOS, Android, XBO"
+    "platforms": "Mac, Win, Mobile, XBO"
   },
   {
     "title": "Rocket Arena",
-    "platforms": "Steam, Other, PS4, XBO"
+    "platforms": "Win, Other, PS4, XBO"
   },
   {
     "title": "Rocket League",
-    "platforms": "Steam, PS4, XBO, Switch"
+    "platforms": "Win, PS4, XBO, Switch"
   },
   {
     "title": "Samurai Shodown V Special",
@@ -645,23 +641,23 @@
   },
   {
     "title": "Sea of Thieves",
-    "platforms": "Steam, W10, XBO"
+    "platforms": "Win, Win, XBO"
   },
   {
     "title": "Shadowverse",
-    "platforms": "Steam, iOS, Android"
+    "platforms": "Win, Mobile"
   },
   {
     "title": "Sid Meier's Civilization V",
-    "platforms": "Linux, Steam"
+    "platforms": "Linux, Win"
   },
   {
     "title": "Siegecraft Commander",
-    "platforms": "Mac, Steam, PS4"
+    "platforms": "Mac, Win, PS4"
   },
   {
     "title": "Siegecraft Commander",
-    "platforms": "Mac, Steam, W10, XBO, Switch"
+    "platforms": "Mac, Win, Win, XBO, Switch"
   },
   {
     "title": "Skullgirls: 2nd Encore",
@@ -673,23 +669,23 @@
   },
   {
     "title": "Smite",
-    "platforms": "Mac, Steam, Other, PS4, XBO, Switch"
+    "platforms": "Mac, Win, Other, PS4, XBO, Switch"
   },
   {
     "title": "Sniper Elite V2 Remastered",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Spacelords",
-    "platforms": "Steam, W10, PS4, XBO"
+    "platforms": "Win, Win, PS4, XBO"
   },
   {
     "title": "Space Junkies",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Sparc",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Spelunky",
@@ -697,23 +693,23 @@
   },
   {
     "title": "Sports Bar VR",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Star Trek: Bridge Crew",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Star Wars: Squadrons",
-    "platforms": "Steam, Other, PS4, XBO"
+    "platforms": "Win, Other, PS4, XBO"
   },
   {
     "title": "State of Decay 2",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Street Fighter V",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Street Fighter X Tekken",
@@ -721,15 +717,15 @@
   },
   {
     "title": "Square Heroes",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Super Dungeon Bros",
-    "platforms": "Mac, Steam, PS4"
+    "platforms": "Mac, Win, PS4"
   },
   {
     "title": "Super Dungeon Bros",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Super Exploding Zoo",
@@ -737,11 +733,11 @@
   },
   {
     "title": "Super Mega Baseball 2",
-    "platforms": "Steam, PS4, XBO, Switch"
+    "platforms": "Win, PS4, XBO, Switch"
   },
   {
     "title": "Surviv.io",
-    "platforms": "Linux, Mac, W10, iOS, Android"
+    "platforms": "Linux, Mac, Win, Mobile"
   },
   {
     "title": "Switch Galaxy Ultra",
@@ -749,11 +745,11 @@
   },
   {
     "title": "Talisman: Digital Edition",
-    "platforms": "Steam, iOS, Android, Switch"
+    "platforms": "Win, Mobile, Switch"
   },
   {
     "title": "Terraria (PC Version)",
-    "platforms": "Linux, Mac, GOG, Steam"
+    "platforms": "Linux, Mac, Win"
   },
   {
     "title": "Terraria (PlayStation Version)",
@@ -761,7 +757,7 @@
   },
   {
     "title": "Terraria (Mobile Version)",
-    "platforms": "iOS, Android"
+    "platforms": "Mobile"
   },
   {
     "title": "Terraria (Xbox Version)",
@@ -769,27 +765,27 @@
   },
   {
     "title": "Touring Karts",
-    "platforms": "Steam, iOS, Android, PS4, Switch"
+    "platforms": "Win, Mobile, PS4, Switch"
   },
   {
     "title": "Trailblazers",
-    "platforms": "Linux, Mac, GOG, Steam, PS4"
+    "platforms": "Linux, Mac, Win, PS4"
   },
   {
     "title": "Trailblazers",
-    "platforms": "Linux, Mac, GOG, Steam, XBO, Switch"
+    "platforms": "Linux, Mac, Win, XBO, Switch"
   },
   {
     "title": "Treasure Stack",
-    "platforms": "Steam, XBO, Switch"
+    "platforms": "Win, XBO, Switch"
   },
   {
     "title": "Tooth and Tail",
-    "platforms": "Linux, Mac, GOG, Steam, PS4"
+    "platforms": "Linux, Mac, Win, PS4"
   },
   {
     "title": "StarCraft II: Wings of Liberty",
-    "platforms": "Linux, Mac, W10, Other"
+    "platforms": "Linux, Mac, Win, Other"
   },
   {
     "title": "Toukiden 2",
@@ -801,7 +797,7 @@
   },
   {
     "title": "Ultimate Chicken Horse",
-    "platforms": "Linux, Mac, Steam, PS4, Switch"
+    "platforms": "Linux, Mac, Win, PS4, Switch"
   },
   {
     "title": "Under Night In-Birth EXE:Late[st]",
@@ -809,15 +805,15 @@
   },
   {
     "title": "Vainglory",
-    "platforms": "Mac, Steam, W10, iOS, Android"
+    "platforms": "Mac, Win, Win, Mobile"
   },
   {
     "title": "Wargroove",
-    "platforms": "Steam, W10, PS4, XBO, Switch"
+    "platforms": "Win, Win, PS4, XBO, Switch"
   },
   {
     "title": "Warhammer Age of Sigmar: Champions",
-    "platforms": "Mac, Steam, iOS, Android, Switch"
+    "platforms": "Mac, Win, Mobile, Switch"
   },
   {
     "title": "Warriors Orochi 3 Ultimate",
@@ -825,19 +821,19 @@
   },
   {
     "title": "War Thunder",
-    "platforms": "Linux, Mac, Steam, PS4, XBO"
+    "platforms": "Linux, Mac, Win, PS4, XBO"
   },
   {
     "title": "Warspear",
-    "platforms": "Linux, Mac, Steam, iOS, Android"
+    "platforms": "Linux, Mac, Win, Mobile"
   },
   {
     "title": "Weapons of Mythology: New Age",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "Werewolves Within",
-    "platforms": "Steam, PS4"
+    "platforms": "Win, PS4"
   },
   {
     "title": "When Vikings Attack!",
@@ -873,15 +869,15 @@
   },
   {
     "title": "Yu-Gi-Oh! Duel Links",
-    "platforms": "Steam, iOS, Android"
+    "platforms": "Win, Mobile"
   },
   {
     "title": "Zaccaria Pinball",
-    "platforms": "Linux, Mac, Steam"
+    "platforms": "Linux, Mac, Win"
   },
   {
     "title": "Zoo Tycoon: Ultimate Animal Collection",
-    "platforms": "W10, XBO"
+    "platforms": "Win, XBO"
   },
   {
     "title": "Zombie Tycoon 2",
