@@ -5,7 +5,7 @@
 <style>
   sup {
     @apply font-bold;
-    z-index: -1;
+    @apply z-0;
   }
 </style>
 
