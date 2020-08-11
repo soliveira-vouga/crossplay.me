@@ -4,7 +4,7 @@
   "scripts": {
     "watch:tailwind": "postcss public/tailwind.css -o public/index.css -w",
     "build:tailwind": "NODE_ENV=production postcss public/tailwind.css -o public/index.css",
-    "dev": "PORT=3002 run-p start:dev autobuild watch:tailwind",
+    "dev": "PORT=3000 run-s autobuild start:dev watch:tailwind",
     "build": "npm run build:tailwind && rollup -c",
     "start": "sirv public --single",
     "start:dev": "sirv public --single --dev",
@@ -21,7 +21,9 @@
     "rollup-plugin-svelte": "^5.0.3",
     "rollup-plugin-terser": "^5.1.2",
     "svelte": "^3.0.0",
-    "tailwindcss": "^1.6.2"
+    "svelte-preprocess": "^4.0.10",
+    "tailwindcss": "^1.6.2",
+    "wtf_wikipedia": "^8.4.0"
   },
   "dependencies": {
     "sirv-cli": "^1.0.0"

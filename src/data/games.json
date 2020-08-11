@@ -1,886 +1,1745 @@
 [
   {
     "title": "#IDARB",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "99Vidas",
-    "platforms": "PS4, PS3"
+    "platforms": [
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "A-Men",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Alien Breed",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Among Us",
-    "platforms": "Win, Mobile"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Aragami",
-    "platforms": "Linux, Mac, Win, XBO, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Aragami",
-    "platforms": "Linux, Mac, Win, PS4"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Ark: Survival Evolved",
-    "platforms": "Linux, Mac, Win, Other"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Ark: Survival Evolved",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Astroneer",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Atomic Ninjas",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Atom Universe",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Backgammon Blitz",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Black Desert Online",
-    "platforms": "PS4, XBO"
+    "platforms": [
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "BlazBlue: Chrono Phantasma",
-    "platforms": "PS4, PS3"
+    "platforms": [
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "BlobCat",
-    "platforms": "Win, Switch"
+    "platforms": [
+      "Win",
+      "Switch"
+    ]
   },
   {
     "title": "Borderlands 3",
-    "platforms": "Win, Other"
+    "platforms": [
+      "Win"
+    ]
   },
   {
     "title": "Boundless",
-    "platforms": "Mac, Win, PS4"
+    "platforms": [
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Brawlhalla",
-    "platforms": "Mac, Win, Mobile, PS4, XBO, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Call of Duty: Modern Warfare",
-    "platforms": "Other, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Crackdown 3",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Crazy Justice",
-    "platforms": "Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Chessaria: The Tactical Adventure",
-    "platforms": "Mac, Win"
+    "platforms": [
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Chess Ultra",
-    "platforms": "Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Chess Ultra",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Cubemen 2",
-    "platforms": "Linux, Mac, Win, Mobile"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "Wii U"
+    ]
   },
   {
     "title": "Curses 'N Chaos",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Dauntless",
-    "platforms": "Other, Mobile, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Dawn of the Breakers",
-    "platforms": "Win, Mobile, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "DC Universe Online",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Dead by Daylight",
-    "platforms": "Win, Win"
+    "platforms": [
+      "Win"
+    ]
   },
   {
     "title": "Dead by Daylight",
-    "platforms": "Mobile"
+    "platforms": [
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Dead or Alive 5 Plus",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Deathmatch Village",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Deception IV: Blood Ties",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Deep Rock Galactic",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Dick Wilde 2",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Dofus",
-    "platforms": "Linux, Mac, Win, Other"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Digimon Story: Cyber Sleuth",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Digimon Story: Cyber Sleuth – Hacker's Memory",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Disc Jam",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Disc Jam",
-    "platforms": "Win, Switch"
+    "platforms": [
+      "Win",
+      "Switch"
+    ]
   },
   {
     "title": "Divekick",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Dragon Quest Builders 2",
-    "platforms": "PS4, Switch"
+    "platforms": [
+      "PS4",
+      "Switch"
+    ]
   },
   {
     "title": "Dragon Quest Heroes II",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Dragon Quest X",
-    "platforms": "Other, Mobile, PS4, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "PS4",
+      "Switch",
+      "Wii U",
+      "3DS"
+    ]
   },
   {
     "title": "Dragon's Crown",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Dragon's Dogma Online",
-    "platforms": "Other, PS4, PS3"
+    "platforms": [
+      "Win",
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "Dreii",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Dreii",
-    "platforms": "Linux, Mac, Win"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "Wii U"
+    ]
   },
   {
     "title": "Duke Nukem 3D Megaton Edition",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Dynasty Warriors 8",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Eagle Flight",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "The Elder Scrolls: Blades",
-    "platforms": "Mobile, Switch"
+    "platforms": [
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Elemental Knights R",
-    "platforms": "Mobile, Switch"
+    "platforms": [
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Eve Online",
-    "platforms": "Mac, Win, Other"
+    "platforms": [
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Eve: Valkyrie",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Everybody's Golf 6",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Exorder",
-    "platforms": "Linux, Mac, Win, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "Switch"
+    ]
   },
   {
     "title": "Fable Fortune",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Factorio",
-    "platforms": "Linux, Mac, Win, Other"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Fantasy Strike",
-    "platforms": "Linux, Mac, Win, PS4, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4",
+      "Switch"
+    ]
   },
   {
     "title": "Final Fantasy: Crystal Chronicles",
-    "platforms": "Mobile, PS4, Switch"
+    "platforms": [
+      "iOS",
+      "Android",
+      "PS4",
+      "Switch"
+    ]
   },
   {
     "title": "Final Fantasy XIV: A Realm Reborn",
-    "platforms": "Mac, Win, Other, PS4, PS3"
+    "platforms": [
+      "Mac",
+      "Win",
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "Final Fantasy XV",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Foosball 2012",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Fortnite Battle Royale",
-    "platforms": "Mac, Other, Mobile, PS4, XBO, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Forza Horizon 3",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Forza Horizon 4",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Forza Motorsport 7",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Frozen Synapse",
-    "platforms": "Linux, Mac, Win, Other, Mobile"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Full Metal Furies",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Games of Glory",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Garou: Mark of the Wolves",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Gears of War 4",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Gears 5",
-    "platforms": "Win, Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Genesis",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "God Eater Resurrection",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "God Eater 2 Rage Burst",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Grand Kingdom",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Guilty Gear Xrd: Revelator",
-    "platforms": "PS4, PS3"
+    "platforms": [
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "Guilty Gear Xrd: Sign",
-    "platforms": "PS4, PS3"
+    "platforms": [
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "Gundam Breaker",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Guns of Icarus: Alliance",
-    "platforms": "Linux, Mac, Win, PS4"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Gwent: The Witcher Card Game",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Gwent: The Witcher Card Game",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Halo Wars 2",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Hearthstone",
-    "platforms": "Mac, Other, Mobile"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Hero Siege",
-    "platforms": "Linux, Mac, Win, Mobile, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Hero Siege",
-    "platforms": "Linux, Mac, Win, Mobile, PS4"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "PS4"
+    ]
   },
   {
     "title": "Hex",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Helldivers",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Honkai Impact 3rd",
-    "platforms": "Other, Mobile"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Hover",
-    "platforms": "Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Hover",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Hunt: Showdown",
-    "platforms": "PS4, XBO"
+    "platforms": [
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Hustle Kings",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Invizimals: The Alliance",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Invizimals: The Lost Kingdom",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita",
+      "360"
+    ]
   },
   {
     "title": "Invokers Tournament",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Jet Car Stunts",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Just Dance",
-    "platforms": "PS4, XBO, Switch, PS3"
+    "platforms": [
+      "PS4",
+      "XBO",
+      "Switch",
+      "Wii U",
+      "PS3"
+    ]
   },
   {
     "title": "Kabounce",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Killer Instinct",
-    "platforms": "Win, Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Killer Queen Black",
-    "platforms": "Mac, Win, XBO, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "The King of Fighters '97 Global Match",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "The Last Blade 2",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "LevelHead",
-    "platforms": "Win, Mobile, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Lightseekers",
-    "platforms": "Mac, Win, Mobile, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Lost Planet: Extreme Condition Colonies Edition",
-    "platforms": "Other"
+    "platforms": [
+      "Win"
+    ]
   },
   {
     "title": "Lucadian Chronicles",
-    "platforms": "Win"
+    "platforms": [
+      "Win",
+      "Wii U"
+    ]
   },
   {
     "title": "Mantis Burn Racing",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Mantis Burn Racing",
-    "platforms": "Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Mecho Wars: Desert Ashes",
-    "platforms": "Switch, Vita"
+    "platforms": [
+      "Switch",
+      "Vita"
+    ]
   },
   {
     "title": "Metal Slug 3",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Microsoft Flight Simulator (2020)",
-    "platforms": "Win, Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Minecraft: Java Edition",
-    "platforms": "Linux, Mac, Other"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Minecraft: Bedrock Edition",
-    "platforms": "Win, Mobile, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Minetest",
-    "platforms": "Linux, Mac, Win, Mobile"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "WP"
+    ]
   },
   {
     "title": "Mobius Final Fantasy",
-    "platforms": "Win, Mobile"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "title": "Monster Hunter 3 Ultimate",
+    "platforms": [
+      "Wii U",
+      "3DS"
+    ]
   },
   {
     "title": "Monster Hunter Generations Ultimate",
-    "platforms": "Switch"
+    "platforms": [
+      "Switch",
+      "3DS"
+    ]
   },
   {
     "title": "Morphies Law",
-    "platforms": "Win, Switch"
+    "platforms": [
+      "Win",
+      "Switch"
+    ]
   },
   {
     "title": "Mortal Kombat 11",
-    "platforms": "PS4, XBO"
+    "platforms": [
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Mushroom Wars 2",
-    "platforms": "Mac, Win, Mobile, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Natural Doctrine",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "NBA 2K Playgrounds 2",
-    "platforms": "Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Nidhogg",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Need for Speed Heat",
-    "platforms": "Win, Other, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Neverwinter Nights (Enhanced Edition)",
-    "platforms": "Linux, Mac, Win, Other, XBO, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Next Up Hero",
-    "platforms": "Mac, Win, XBO, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Nitroplus Blasterz: Heroines Infinite Duel",
-    "platforms": "PS4, PS3"
+    "platforms": [
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "No Man's Sky",
-    "platforms": "Win, Win, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Onigiri",
-    "platforms": "Win, Switch"
+    "platforms": [
+      "Win",
+      "Switch"
+    ]
   },
   {
     "title": "Overload",
-    "platforms": "Linux, Mac, Win, XBO"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Overload",
-    "platforms": "Linux, Mac, Win, PS4"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Paladins",
-    "platforms": "Win, Other, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Phantasy Star Online 2",
-    "platforms": "Win, Other, PS4, XBO, Switch, Vita"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch",
+      "Vita"
+    ]
   },
   {
     "title": "Phantom Dust",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Pinball FX 3",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Pinball FX 3",
-    "platforms": "Win, Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "PixelJunk Shooter Ultimate",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "PlayerUnknown's Battlegrounds",
-    "platforms": "PS4, XBO"
+    "platforms": [
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "PlayStation All-Stars Battle Royale",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Portal 2",
-    "platforms": "Linux, Mac, Win, PS3"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS3"
+    ]
   },
   {
     "title": "Power Rangers: Battle for the Grid",
-    "platforms": "Win, Win, Other, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Pox Nora",
-    "platforms": "Mac, Win, PS4"
+    "platforms": [
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Pure Chess",
-    "platforms": "Win"
+    "platforms": [
+      "Win",
+      "Wii U",
+      "3DS"
+    ]
   },
   {
     "title": "Ragnarok Odyssey Ace",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Ratchet & Clank: Full Frontal Assault",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "ReadySet Heroes",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Realm Royale",
-    "platforms": "Win, Other, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Rec Room",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Riptide GP Renegade",
-    "platforms": "Win, Switch"
+    "platforms": [
+      "Win",
+      "Switch"
+    ]
   },
   {
     "title": "Riptide GP Renegade",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Risk of Rain",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Risk_(game)",
-    "platforms": "Win, Mobile"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Roblox",
-    "platforms": "Mac, Win, Mobile, XBO"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "XBO"
+    ]
   },
   {
     "title": "Rocket Arena",
-    "platforms": "Win, Other, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Rocket League",
-    "platforms": "Win, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Samurai Shodown V Special",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Sea of Thieves",
-    "platforms": "Win, Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Shadowverse",
-    "platforms": "Win, Mobile"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Sid Meier's Civilization V",
-    "platforms": "Linux, Win"
+    "platforms": [
+      "Linux",
+      "Win"
+    ]
   },
   {
     "title": "Siegecraft Commander",
-    "platforms": "Mac, Win, PS4"
+    "platforms": [
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Siegecraft Commander",
-    "platforms": "Mac, Win, Win, XBO, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Skullgirls: 2nd Encore",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "SkullPirates",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Smite",
-    "platforms": "Mac, Win, Other, PS4, XBO, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Sniper Elite V2 Remastered",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Spacelords",
-    "platforms": "Win, Win, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Space Junkies",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Sparc",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Spelunky",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Sports Bar VR",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Star Trek: Bridge Crew",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Star Wars: Squadrons",
-    "platforms": "Win, Other, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "State of Decay 2",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Street Fighter V",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Street Fighter X Tekken",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Square Heroes",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Super Dungeon Bros",
-    "platforms": "Mac, Win, PS4"
+    "platforms": [
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Super Dungeon Bros",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Super Exploding Zoo",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Super Mega Baseball 2",
-    "platforms": "Win, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Surviv.io",
-    "platforms": "Linux, Mac, Win, Mobile"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Switch Galaxy Ultra",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Talisman: Digital Edition",
-    "platforms": "Win, Mobile, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Terraria (PC Version)",
-    "platforms": "Linux, Mac, Win"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Terraria (PlayStation Version)",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Terraria (Mobile Version)",
-    "platforms": "Mobile"
+    "platforms": [
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Terraria (Xbox Version)",
-    "platforms": "XBO"
+    "platforms": [
+      "XBO",
+      "360"
+    ]
   },
   {
     "title": "Touring Karts",
-    "platforms": "Win, Mobile, PS4, Switch"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android",
+      "PS4",
+      "Switch"
+    ]
   },
   {
     "title": "Trailblazers",
-    "platforms": "Linux, Mac, Win, PS4"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Trailblazers",
-    "platforms": "Linux, Mac, Win, XBO, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Treasure Stack",
-    "platforms": "Win, XBO, Switch"
+    "platforms": [
+      "Win",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Tooth and Tail",
-    "platforms": "Linux, Mac, Win, PS4"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "StarCraft II: Wings of Liberty",
-    "platforms": "Linux, Mac, Win, Other"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Toukiden 2",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Toukiden: Kiwami",
-    "platforms": "PS4, Vita"
+    "platforms": [
+      "PS4",
+      "Vita"
+    ]
   },
   {
     "title": "Ultimate Chicken Horse",
-    "platforms": "Linux, Mac, Win, PS4, Switch"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4",
+      "Switch"
+    ]
   },
   {
     "title": "Under Night In-Birth EXE:Late[st]",
-    "platforms": "PS4, PS3"
+    "platforms": [
+      "PS4",
+      "PS3"
+    ]
   },
   {
     "title": "Vainglory",
-    "platforms": "Mac, Win, Win, Mobile"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Wargroove",
-    "platforms": "Win, Win, PS4, XBO, Switch"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO",
+      "Switch"
+    ]
   },
   {
     "title": "Warhammer Age of Sigmar: Champions",
-    "platforms": "Mac, Win, Mobile, Switch"
+    "platforms": [
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "Switch"
+    ]
   },
   {
     "title": "Warriors Orochi 3 Ultimate",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "War Thunder",
-    "platforms": "Linux, Mac, Win, PS4, XBO"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Warspear",
-    "platforms": "Linux, Mac, Win, Mobile"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win",
+      "iOS",
+      "Android",
+      "WP"
+    ]
   },
   {
     "title": "Weapons of Mythology: New Age",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "Werewolves Within",
-    "platforms": "Win, PS4"
+    "platforms": [
+      "Win",
+      "PS4"
+    ]
   },
   {
     "title": "When Vikings Attack!",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Wipeout 2048",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Wipeout HD",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "World of Tanks",
-    "platforms": "PS4, XBO"
+    "platforms": [
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "World of Warcraft",
-    "platforms": "Mac, Other"
+    "platforms": [
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "World of Warships: Legends",
-    "platforms": "PS4, XBO"
+    "platforms": [
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "World War Z",
-    "platforms": "Other, PS4, XBO"
+    "platforms": [
+      "Win",
+      "PS4",
+      "XBO"
+    ]
   },
   {
     "title": "Yakuza: Ishin",
-    "platforms": "PS4, PS3, Vita"
+    "platforms": [
+      "PS4",
+      "PS3",
+      "Vita"
+    ]
   },
   {
     "title": "Yu-Gi-Oh! Duel Links",
-    "platforms": "Win, Mobile"
+    "platforms": [
+      "Win",
+      "iOS",
+      "Android"
+    ]
   },
   {
     "title": "Zaccaria Pinball",
-    "platforms": "Linux, Mac, Win"
+    "platforms": [
+      "Linux",
+      "Mac",
+      "Win"
+    ]
   },
   {
     "title": "Zoo Tycoon: Ultimate Animal Collection",
-    "platforms": "Win, XBO"
+    "platforms": [
+      "Win",
+      "XBO"
+    ]
   },
   {
     "title": "Zombie Tycoon 2",
-    "platforms": "PS3, Vita"
+    "platforms": [
+      "PS3",
+      "Vita"
+    ]
   }
 ]

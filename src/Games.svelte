@@ -6,16 +6,24 @@
 
 <style>
   .games-table td, .games-table th {
-    border: 1px solid #ddd;
-    padding: 8px;
+    @apply border;
+    @apply border-gray-200;
+    @apply p-2;
+  }
+
+  .games-table tr:nth-child(odd) {
+    @apply bg-gray-200;
+  }
+  
+  .games-table tr:hover {
+    @apply border-gray-200;
   }
 
   .games-table th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #2f2f2f;
-    color: #f2f2f2;
+    @apply py-2;
+    @apply text-left;
+    @apply bg-gray-800;
+    @apply text-white;
   }
 </style>
 
@@ -23,16 +31,16 @@
   <form></form>
   <table class="games-table w-full">
     <thead>
-      <tr class="even:bg-gray-200 hover:border-gray-200">
+      <tr>
         <th>Title</th>
         <th>Platforms</th>
       </tr>
     </thead>
     <tbody>
       {#each games as game, i}
-      <tr class="even:bg-gray-200 hover:border-gray-200">
+      <tr>
         <td>{game.title}</td>
-        <td><PlatformIcons platforms={game.platforms.split(',').map(p => p.trim())} /></td>
+        <td><PlatformIcons platforms={game.platforms} /></td>
       </tr>
       {/each}
     </tbody>
