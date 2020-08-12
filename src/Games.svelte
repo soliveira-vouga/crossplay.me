@@ -25,7 +25,7 @@ import Header from './Header.svelte';
   section {
     height: calc(100vh - 60px);
   }
-  
+
   .games-table td, .games-table tbody th {
     @apply border;
     @apply border-gray-200;
@@ -57,11 +57,13 @@ import Header from './Header.svelte';
   }
 
   .games-table tbody th {
-    background-color: white !important;
     @apply text-left;
     @apply sticky;
     @apply left-0;
     @apply z-10;
+    background-color: white !important;
+    width:1%;
+    white-space:nowrap;
   }
 
   .btn {
