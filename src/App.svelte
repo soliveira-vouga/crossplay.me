@@ -1,7 +1,9 @@
 <script>
 	import Header from "./Header.svelte";
-import Games from "./Games.svelte";
+	import Games from "./Games.svelte";
 </script>
 
-<Header />
-<Games />
+<div class="h-screen">
+	<Header />
+	<Games />
+</div>
